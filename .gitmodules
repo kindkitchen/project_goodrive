@@ -7,3 +7,6 @@
 [submodule "util_plopper"]
 	path = util_plopper
 	url = https://github.com/kindkitchen/util_plopper.git
+[submodule "goodrive"]
+	path = goodrive
+	url = https://github.com/kindkitchen/goodrive.git
